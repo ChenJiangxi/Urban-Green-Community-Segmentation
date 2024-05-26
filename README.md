@@ -1,4 +1,4 @@
-# aux-HRNet
+# High-Resolution Network Based Urban Green Community Space Segmentation
 
 ## Introduction
 
